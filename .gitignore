@@ -1,0 +1,8 @@
+#NODE 
+node_modules/
+
+#MONGO
+mongo/mongo-volume/
+
+#MISC
+.env
