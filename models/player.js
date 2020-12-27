@@ -9,7 +9,7 @@ const PlayerSchema = new Schema({
   },
   age: {
       type: Number,
-      required: [true, 'The Player age is required']
+      required: [false, 'The Player age is required']
   }
 })
 
